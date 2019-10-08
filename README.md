@@ -23,12 +23,12 @@ More about the index (YouTube Video):
 The analysis was made in a Jupyter Notebook, so the best way to run the scripts is clonning the repository and running a [Jupyter Notebook](https://jupyter.org/).
 
 Clone the repo.
-```
+```Shell
 $ git clone [git-repository]
 ```
 
 Start Jupyter.
-```
+```Shell
 $ jupyter-notebook
 #  or
 $ jupyter lab # I personally preffer this one
