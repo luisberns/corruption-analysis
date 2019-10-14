@@ -1,4 +1,5 @@
 ## Questions
+
 - What are the top 10 countries with lowest CPI score? And the highest?
 - The overall number of internet users variate between the countries with lowest and highest CPI score?
 - What are the correlation between the variables? Are there any differences between the countries with lowest and highest CPI score?
@@ -6,6 +7,7 @@
 - The correlations changes with the countries with most Journalist Killed?
 
 ## Limitations
+
 We're using three datasets, two of them has data of many years that could have helped the analysis, but the CPI dataset only had data from 2012 to 2017, this resulted in a limitation of years that we could analyze the data.
 
 Also, some additional information would be useful to validate hypothesis like "what happened in this country this year to hava had so many journalists killed" or "why the CPI score have rise in those years, what could have had influentiated the corruption perception with the population", and so on. But if we've added those data the analysis could turn to be too complex and also, we aren't certain that this sort of data is available or if there is quality data for this.
